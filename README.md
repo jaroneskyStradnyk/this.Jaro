@@ -1,5 +1,7 @@
 # this.Jaro
 
+I am currently volunteering for Zenchain Tech Foundation for Zenswap Network Project
+
 You can contact me at
 <jaroneskystradnyk@gmail.com>
 or
