@@ -1,8 +1,9 @@
 # this.Jaro
 
 You can contact me at
-jaroneskystradnyk@gmail.com
-jaronesky@zenswapnetwork.info
+<jaroneskystradnyk@gmail.com>
+or
+<jaronesky@zenswapnetwork.info>
 
 Telegram
 https://web.telegram.org/#/im?p=@jaronesky
